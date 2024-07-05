@@ -1,1 +1,1 @@
-# rn-countdown-component
+# rn-eks-countdown-component
